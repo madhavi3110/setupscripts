@@ -5,7 +5,7 @@ metadata:
   name: dynakube
   namespace: dynatrace
 spec: 
-  apiUrl: "https://xmq55850.live.dynatrace.com/api"
+  apiUrl: "https://XXXXXXXX.live.dynatrace.com/api"
   classicFullStack: 
     enabled: true
     tolerations: 
